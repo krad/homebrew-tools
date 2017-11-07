@@ -2,7 +2,7 @@ class Capture < Formula
   desc "Command-line utility for creating media files from video/audio hardware"
   homepage "https://github.com/krad/capture/"
   url "https://github.com/krad/capture/archive/0.0.2.tar.gz"
-  sha256 "4c3d6338a73bd89aa5ab6f6a7c24a16917695723df8a0a7f33492c4f3e32ff56"
+  sha256 "7202abf16ee03907d71b0bef36cd8e6206d088d1aa68056dd1a1ab8abae5f3e7"
 
   depends_on :xcode => ["9.0", :build]
   depends_on :macos => :sierra
